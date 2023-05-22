@@ -352,10 +352,6 @@ span+span {
     cursor: pointer;
 }
 
-.contact_button {
-    display: none;
-}
-
 .links {
     display: flex;
     justify-content: center;

@@ -317,34 +317,3 @@ div.btn {
     padding-left: 3.5rem;
     padding-right: 3.5rem;
 }
-
-/* Contacto */
-
-.contacto h1 {
-    padding: 8rem 0 2.5rem 0;
-    font-size: 3rem;
-}
-
-.container_box--contacto {
-    margin-top: 2rem;
-    display: flex;
-    justify-content: space-evenly;
-}
-
-.container_img--contacto {
-    display: inline-block;
-    width: 60rem;
-    display: flex;
-    justify-content: center;
-}
-
-.container_img--contacto img {
-    width: 50rem;
-    object-fit: contain;
-}
-
-.container--contacto {
-    width: 50%;
-    margin: 0;
-    padding: 4rem 3rem;
-}
