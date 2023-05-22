@@ -1,0 +1,16 @@
+{
+    "menu": {
+        "item1":"Home",
+        "item2":"About me",
+        "item3":"Skills", 
+        "item4":"Education",
+        "item5":"Projects"
+    }, 
+    "home":{
+        "home_text-1":"Hi! I'm",
+        "home_text-2":"Juan Guillermo",
+        "home_text-3":"Economist | Data Analyst", 
+        "parrafo-info":"I hold a Bachelor's degree in Economics from Universidad Torcuato Di Tella with a minor in Mathematics and Statistics. Currently, I work as a Data Analyst at CENCOSUD. My professional career is focused on data analysis and collection, with a passion for econometrics and quantitative analysis.",
+        "cv_button":"Download CV"
+    }
+}
