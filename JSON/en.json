@@ -16,5 +16,8 @@
     "sobre-mi": {
         "title": "About me",
         "texto_sobreMi": "I have a degree in Economics with a minor in mathematics and statistics from the Torcuato Di Tella University. I have learned different programming languages ​​​​oriented to data analysis. <br> In my professional journey I've had the chance to work across different sectors, exploring areas outside my main field of study. However, for the past year and a half, I've been working as a Data Analyst at CENCOSUD. <br><br> I consider myself a responsible, hardworking, and problem-solving kind of person. I'm great at teamwork, always approaching things with empathy and respect. I love continuous learning and have a knack for picking up new skills quickly and accurately."
+    }, 
+    "habilidades": {
+        "title": "Skills"
     }
 }
