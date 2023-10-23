@@ -12,5 +12,10 @@
         "home_text-3":"Economísta | An. de Datos",
         "parrafo-info":"Licenciado en Economía de la Universidad Torcuato Di Tella con campo menor en matemática y estadística. Actualmente me desempeño como Análista de Datos en CENCOSUD. Mi carrera profesional se centra en el análisis y recolección de datos, con pasión por la econométrica y el análisis cuantitativo.",
         "cv_button":"Descargar CV"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy Licenciado en Economía con campo menor en matemática y estadística por la Universidad Torcuato Di Tella. He aprendido distintos lenguajes de programación orientados al análisis y ciencia de datos. <br> Durante mi trayectoria profesional he tenido la oportunidad de trabajar en diversos sectores, explorando áreas que se alejan de mi campo de estudio. No obstante, desde hace un año y medio, me desempeño como Analista de Datos en CENCOSUD. <br><br> Me considero una persona responsable, trabajadora y resolutiva. Tengo muy buenas capacidades para el trabajo en equipo, siempre desde la empatía y el respeto. Disfruto del aprendizaje continuo y tengo la capacidad de adquirir nuevos conocimientos de forma ágil y precisa."
     }
 }

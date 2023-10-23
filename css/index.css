@@ -367,3 +367,65 @@ span+span {
     width: 2.1rem;
     margin-top: 2px;
 }
+
+
+
+
+
+/* Sobre mí */
+
+.sobreMi {
+    background-color: var(--eerie-black);
+    width: 100%;
+    height: auto;
+}
+
+.sobreMi h1 {
+    display: block;
+    text-align: center;
+    color: var(--white);
+    font-family: 'Cooper Hewitt';
+    font-size: 2.4rem;
+    letter-spacing: .1rem;
+    padding-top: 6rem;
+}
+
+.container_texto-sobreMi {
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 3rem 3rem 3rem;
+}
+
+.title_sobreMi {
+    font-family: 'Cooper Hewitt';
+    color: var(--beaver);
+    text-align: center;
+    font-size: 2.2rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.texto_sobreMi {
+    color: var(--light-grey);
+    font-family: 'Cooper Hewitt';
+    font-size: 1.5rem;
+    letter-spacing: .1rem;
+    white-space: pre-line;
+    text-align: justify;
+    line-height: 2.2rem;
+}
+
+.container_image-sobreMi {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.image_sobreMi {
+    width: 65%;
+    margin-bottom: 5rem;
+    border-bottom: 2px solid var(--jet);
+}
