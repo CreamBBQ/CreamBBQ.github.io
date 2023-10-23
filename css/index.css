@@ -1,6 +1,7 @@
 @font-face {
-    font-family: fac;
-    src: url(/fuentes/CooperHewitt-Light.woff) format('woff'), url(/fuentes/CooperHewitt-Thin.woff) format('woof');
+    font-family: 'Cooper Hewitt';
+    src: url('../fuentes/CooperHewitt-Light.woff') format('woff'), 
+    url('../fuentes/CooperHewitt-Thin.woff') format('woof');
 }
 
 :root {
@@ -37,11 +38,11 @@ html::-webkit-scrollbar-track {
 
 
 html::-webkit-scrollbar-thumb {
-    background-color: var(--beaver);;
+    background-color: var(--light-green);;
 }
 
 ::selection {
-    background-color: #776254;
+    background-color: var(--light-green);
 }
 
 /* Header */
