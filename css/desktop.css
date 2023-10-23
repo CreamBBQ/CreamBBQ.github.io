@@ -265,7 +265,7 @@ div.btn {
 }
 
 .cards--formacion:hover {
-    border: 1px solid var(--beaver);
+    border: 1px solid var(--light-green);
     box-shadow: 0 10px 16px -6px rgb(5 5 5 / 30%), 0 25px 10px -24px rgb(5 5 5 / 10%);
     transform: scale(1.1);
     transition: .4s all;
