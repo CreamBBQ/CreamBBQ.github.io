@@ -99,7 +99,7 @@ nav.nav_menu.active a {
     font-family: 'Cooper Hewitt';
     letter-spacing: .1rem;
     text-decoration: none;
-    color: var(--white);
+    color: var(--beaver);
     font-size: 2rem;
     width: 100%;
     text-align: center;
@@ -344,7 +344,7 @@ span+span {
     background-color: var(--light-green);
     border-radius: 3rem;
     padding: .6rem 2rem .5rem 2rem;
-    color: var(--light-green);
+    color: var(--white);
     font-family: 'Cooper Hewitt';
     font-weight: bold;
     font-size: 1.6rem;
