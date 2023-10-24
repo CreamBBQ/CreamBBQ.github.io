@@ -371,10 +371,6 @@ span+span {
     margin-top: 2px;
 }
 
-
-
-
-
 /* Sobre mí */
 
 .sobreMi {
@@ -683,17 +679,6 @@ img.logo-epet {
     background: none;
     color: var(--light-green);
     border: 1px solid var(--light-green);
-}
-
-.btn_demo img {
-    width: 2rem;
-    margin-right: .8rem;
-}
-
-.container_btn--proyectos .btn_demo:hover {
-    background: #776254;
-    box-shadow: 0px 13px 33px -14px rgba(0,0,0,0.75);
-    transition: all .4s ease;
 }
 
 .btn_repo img {

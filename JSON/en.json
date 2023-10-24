@@ -3,7 +3,7 @@
         "item1":"Home",
         "item2":"About me",
         "item3":"Skills", 
-        "item4":"Education",
+        "item4":"Training",
         "item5":"Projects"
     }, 
     "home":{
@@ -15,9 +15,28 @@
     }, 
     "sobre-mi": {
         "title": "About me",
-        "texto_sobreMi": "I have a degree in Economics with a minor in mathematics and statistics from the Torcuato Di Tella University. I have learned different programming languages ​​​​oriented to data analysis. <br> In my professional journey I've had the chance to work across different sectors, exploring areas outside my main field of study. However, for the past year and a half, I've been working as a Data Analyst at CENCOSUD. <br><br> I consider myself a responsible, hardworking, and problem-solving kind of person. I'm great at teamwork, always approaching things with empathy and respect. I love continuous learning and have a knack for picking up new skills quickly and accurately."
+        "texto_sobreMi": "I am 23 years old and I reside in the Ciudad Autonóma de Buenos Aires. I obtained my degree in economics in the current year 2023. My fondness for data led me to study various programming languages for their extraction and analysis. <br>  Throughout my professional journey, I have had the opportunity to work in various sectors, exploring areas outside my field of study. However, for the past year and a half, I have been working as a Data Analyst at CENCOSUD. <br><br> I consider myself a responsible, hardworking, and solution-oriented person. I have excellent teamwork abilities, always fostering empathy and respect. I enjoy continuous learning and have the capacity to acquire new knowledge quickly and accurately."
     }, 
     "habilidades": {
         "title": "Skills"
+    },
+    "formacion": {
+        "title": "Training",
+        "formacion1": "Bachelor of Economics",
+        "tiempo-formacion1": "2019 - 2023",
+        "formacion2": "Data Scientist",
+        "tiempo-formacion2": "2020 - 2022",
+        "formacion3": "Electrical Technician"
+    }, 
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "EcoBici 2021",
+        "info-proyecto1": "Comprehensive analysis, using the R language, of the operation of the public bicycle system in the city of Buenos Aires in the year 2021.",
+        
+        "title-proyecto2": "Argentine financial system",
+        "info-proyecto2": "Exploration of the composition of the country's financial institutions, focusing on the variables that would explain their profits through a panel data econometrics model.",
+        
+        "title-proyecto3": "Web Scraping IMDb",
+        "info-proyecto3": "A system for automatically obtaining a list of Korean-origin movies and associated data. The code is also used to feed a Twitter bot."
     }
 }

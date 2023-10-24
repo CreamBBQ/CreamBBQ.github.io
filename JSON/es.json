@@ -16,9 +16,26 @@
 
     "sobre-mi": {
         "title": "Sobre mí",
-        "texto_sobreMi": "Soy Licenciado en Economía con campo menor en matemática y estadística por la Universidad Torcuato Di Tella. He aprendido distintos lenguajes de programación orientados al análisis y ciencia de datos. <br> Durante mi trayectoria profesional he tenido la oportunidad de trabajar en diversos sectores, explorando áreas que se alejan de mi campo de estudio. No obstante, desde hace un año y medio, me desempeño como Analista de Datos en CENCOSUD. <br><br> Me considero una persona responsable, trabajadora y resolutiva. Tengo muy buenas capacidades para el trabajo en equipo, siempre desde la empatía y el respeto. Disfruto del aprendizaje continuo y tengo la capacidad de adquirir nuevos conocimientos de forma ágil y precisa."
+        "texto_sobreMi": "Tengo 23 años y resido en la Ciudad Autonóma de Buenos Aires. Obtuve mi grado en economía en el presente año 2023. Mi gusto por los datos me llevó a estudiar diversos lenguajes de programación para su extracción y análisis. <br>  Durante mi trayectoria profesional he tenido la oportunidad de trabajar en diversos sectores, explorando áres fuera de mi campo de estudio. No obstante, desde hace un año y medio, me desempeño como Analista de Datos en CENCOSUD. <br><br> Me considero una persona responsable, trabajadora y resolutiva. Tengo muy buenas capacidades para el trabajo en equipo, siempre desde la empatía y el respeto. Disfruto del aprendizaje continuo y tengo la capacidad de adquirir nuevos conocimientos de forma ágil y precisa."
     }, 
     "habilidades": {
         "title": "Habilidades"
+    }, 
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Licenciatura en Economía",
+        "tiempo-formacion1": "2019 - 2023",
+        "formacion2": "Escuela de Ciencia de Datos",
+        "tiempo-formacion2": "2020 - 2022",
+        "formacion3": "Técnico Electricista"
+    }, 
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "EcoBici 2021",
+        "info-proyecto1": "Análisis en profundidad, a través del lenguaje R, del funcionamiento del sistema de bicicletas públicas de la Ciudad de Buenos Aires en el año 2021.",     
+        "title-proyecto2": "Sistema financiero argentino ",
+        "info-proyecto2": "Se exploran la composición de las instituciones financieras del país haciendo foco en las variables que explicarían sus ganancias a través de modelo de econometría de datos de panel.",
+        "title-proyecto3": "Web Scraping IMDb",
+        "info-proyecto3": "Un sistema para obtener automáticamente una lista de películas de origen coreano y datos ligados a las misma. El código es utilizado, a su vez, para alimentar un bot de twitter."
     }
 }
