@@ -10,12 +10,12 @@
         "home_text-1":"Hi! I'm",
         "home_text-2":"Juan Guillermo",
         "home_text-3":"Economist | Data Analyst", 
-        "parrafo-info":"I hold a Bachelor's degree in Economics from Universidad Torcuato Di Tella with a minor in Mathematics and Statistics. Currently, I work as a Data Analyst at CENCOSUD. My professional career is focused on data analysis and collection, with a passion for econometrics and quantitative analysis.",
+        "parrafo-info":"I hold a Bachelor's degree in Economics from Universidad Torcuato Di Tella with a minor in Mathematics and Statistics. My professional career is focused on data analysis and collection, with a passion for econometrics and quantitative analysis.",
         "cv_button":"Download CV"
     }, 
     "sobre-mi": {
         "title": "About me",
-        "texto_sobreMi": "I am 23 years old and I reside in the Ciudad Autonóma de Buenos Aires. I obtained my degree in economics in the current year 2023. My fondness for data led me to study various programming languages for their extraction and analysis. <br>  Throughout my professional journey, I have had the opportunity to work in various sectors, exploring areas outside my field of study. However, for the past year and a half, I have been working as a Data Analyst at CENCOSUD. <br><br> I consider myself a responsible, hardworking, and solution-oriented person. I have excellent teamwork abilities, always fostering empathy and respect. I enjoy continuous learning and have the capacity to acquire new knowledge quickly and accurately."
+        "texto_sobreMi": "I am 23 years old and I reside in the Ciudad Autonóma de Buenos Aires. I obtained my degree in economics in the current year 2023. My fondness for data led me to study various programming languages for their extraction and analysis. <br><br> I consider myself a responsible, hardworking, and solution-oriented person. I have excellent teamwork abilities, always fostering empathy and respect. I enjoy continuous learning and have the capacity to acquire new knowledge quickly and accurately."
     }, 
     "habilidades": {
         "title": "Skills"
