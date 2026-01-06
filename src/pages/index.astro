@@ -1,0 +1,51 @@
+---
+import Hero from '../components/Hero.astro';
+import SectionContainer from '../components/SectionContainer.astro';
+import Layout from '../layouts/Layout.astro';
+import Briefcase from '../components/Icons/Briefcase.astro';
+import TitleSection from '../components/TitleSection.astro';
+import Experience from '../components/Experience.astro';
+import Chart from  '../components/Icons/Chart.astro';
+import Projects from '../components/Projects.astro';
+import AboutMe from "../components/AboutMe.astro"
+import ProfileCheck from '../components/Icons/ProfileCheck.astro';
+---
+
+<Layout
+	title="Web de Juan Guillermo Muñoz Delgado - Economista y Analista de Datos con 4 años de experienca"
+	description="Juan Guillermo Muñoz Delgado. Economista y analista de datos. Power BI, SQL, Python, R, Excel"
+>
+	<main class="px-4">
+		<SectionContainer class="py-16 md:py-36">
+			<Hero> 
+			</slot>
+			</Hero>
+		</SectionContainer>
+        <div class="space-y-24">
+        <SectionContainer id="experiencia">
+      		<TitleSection>
+        	<Briefcase class="size-8" />
+        	Experiencia laboral
+      	</TitleSection>
+		 <Experience />
+		</SectionContainer>
+
+    <SectionContainer id="proyectos">
+      <TitleSection>
+        <Chart class="size-7" />
+        Proyectos
+      </TitleSection>
+      <Projects />
+    </SectionContainer>
+
+    <SectionContainer id="sobre-mí">
+      <TitleSection>
+        <ProfileCheck class="size-8" />
+        Sobre mí
+      </TitleSection>
+      <AboutMe />
+    </SectionContainer>
+
+		</div>
+	</main>
+</Layout>

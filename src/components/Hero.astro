@@ -1,0 +1,47 @@
+---
+const personalImageAlt = "Juan Guillermo Muñoz Delgado";
+import Badge from "./Badge.astro"
+import LinkedInIcon from "./Icons/Linkedin.astro"
+import MailIcon from "./Icons/Mail.astro"
+import SocialPill from "./SocialPill.astro"
+// 
+
+---
+
+<div class="max-w-xl">
+  <div class="flex gap-4 mb-4"> <!-- gap: dist con el badge, mb: dist con el texto de abajo -->
+    <img
+      class="rounded-full size-16 bg-gray-300 dark:bg-gray-100"
+      src="/CreamBBQ.svg"
+      alt={personalImageAlt}
+    />
+    <a
+      href="https://drive.google.com/file/d/1PaqFs1dwbHD2gpxWke1Qppmh6yEEWGE8/view?usp=sharing"
+      target="_blank"
+      rel="noopener"
+      class="flex items-center transition md:justify-center md:hover:scale-105"
+    >
+      <Badge>Descargar CV</Badge>
+    </a>
+  </div>
+  <h1
+    class="text-4xl font-bold tracking-tight text-gray-800 sm:text-5xl dark:text-white"
+  >
+    Buenas!👋 Soy Guille
+  </h1>
+  <p
+    class="mt-3 text-xl text-gray-800 dark:[&>strong]:text-green-500 [&>strong]:text-green-500 [&>strong]:font-semibold dark:text-gray-300"
+  >
+    Economista y Analista de Datos de Buenos Aires 🇦🇷 <br> <strong> +4 Años de experiencia</strong> utilizando datos para impulsar eficiencia, crecimiento y decisiones estratégicas en diversas industrias.
+  </p>
+  <nav class="flex flex-wrap gap-4 mt-4">
+    <SocialPill href="mailto:jgmd1306@gmail.com">
+      <MailIcon class="size-4" />
+      Contáctame
+    </SocialPill>
+    <SocialPill href="https://www.linkedin.com/in/guillermo-mu%C3%B1oz/">
+      <LinkedInIcon class="size-4" />
+      LinkedIn
+    </SocialPill>
+  </nav>
+</div>
