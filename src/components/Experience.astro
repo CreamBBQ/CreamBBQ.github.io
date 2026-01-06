@@ -1,0 +1,29 @@
+---
+import ExperienceItem from "./ExperienceItem.astro"
+const EXPERIENCE = [
+  {
+    date: "Marzo 2024 - Actualidad",
+    title: "Analista de Datos",
+    company: "Suizo Argentina",
+    description:
+      "Colaboro con distintos equipos internos para identificar sus necesidades y traducirlas en dashboards interactivos que potencien sus resultados. Combino comunicación efectiva, para comprender las métricas y KPIs a desarrollar, con habilidades técnicas para extraer, limpiar y transformar datos. De esta forma me aseguro de que cada visualización entregue información confiable y de alto impacto. ",
+  },
+  {
+    date: "Marzo 2022 - Septiembre 2023",
+    title: "Analista de Datos",
+    company: "Cencosud",
+    description:
+      "Lideré la migración de reportes desarrollados en Excel a un esquema optimizado dentro del entorno de Power BI.\n Mi labor incluyó el modelado y conexión de datos junto a la construcción de visualizaciones de alto impacto.\n La automatización en los flujos de carga y actualización redujeron el tiempo de mantenimiento entre el 80% y el 100%. Se consolidó así una metodología de trabajo ágil y eficiente. ",
+  },
+]
+---
+
+<ol class="relative mt-12">
+  {
+    EXPERIENCE.map((experience) => (
+      <li class="">
+        <ExperienceItem {...experience} />
+      </li>
+    ))
+  }
+</ol>
